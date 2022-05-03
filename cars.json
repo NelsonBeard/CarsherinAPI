@@ -2,6 +2,7 @@
   "cars": [
     {
       "registrationNumber": "A000AA702",
+      "latLng": "54.725937, 55.959308",
       "model": "Ford Focus",
       "color": "White",
       "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/feauture/task_3_cars_json/carsPictures/FordFocus.png",
@@ -11,6 +12,7 @@
     },
     {
       "registrationNumber": "A001AA702",
+      "latLng": "54.734264, 55.945232",
       "model": "Ford Focus",
       "color": "Black",
       "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/feauture/task_3_cars_json/carsPictures/FordFocus.png",
@@ -20,6 +22,7 @@
     },
     {
       "registrationNumber": "B002BB702",
+      "latLng": "54.731135, 55.986216",
       "model": "Audi TT",
       "color": "Red",
       "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/feauture/task_3_cars_json/carsPictures/AudiTT.png",
@@ -29,6 +32,7 @@
     },
     {
       "registrationNumber": "C003CC702",
+      "latLng": "54.748751, 55.994166",
       "model": "Hyundai Solaris",
       "color": "Grey",
       "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/feauture/task_3_cars_json/carsPictures/HyundaiSolaris.png",
@@ -38,6 +42,7 @@
     },
     {
       "registrationNumber": "C004CC702",
+      "latLng": "54.759450, 56.008242",
       "model": "Hyundai Solaris",
       "color": "White",
       "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/feauture/task_3_cars_json/carsPictures/HyundaiSolaris.png",
@@ -47,6 +52,7 @@
     },
     {
       "registrationNumber": "E005EE702",
+      "latLng": "54.769948, 56.056994",
       "model": "Kia Rio",
       "color": "White",
       "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/feauture/task_3_cars_json/carsPictures/KiaRio.png",
@@ -56,6 +62,7 @@
     },
     {
       "registrationNumber": "E006EE702",
+      "latLng": "54.809934, 56.086520",
       "model": "Kia Rio",
       "color": "Grey",
       "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/feauture/task_3_cars_json/carsPictures/KiaRio.png",
@@ -65,6 +72,7 @@
     },
     {
       "registrationNumber": "K007KK702",
+      "latLng": "54.697992, 55.993479",
       "model": "Kia Sorento Prime",
       "color": "Black",
       "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/feauture/task_3_cars_json/carsPictures/KiaSorentoPrime.png",
@@ -74,6 +82,7 @@
     },
     {
       "registrationNumber": "T008TT702",
+      "latLng": "54.725957, 55.976657",
       "model": "Skoda Rapid",
       "color": "White",
       "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/feauture/task_3_cars_json/carsPictures/SkodaRapid.png",
@@ -83,6 +92,7 @@
     },
     {
       "registrationNumber": "M009MM702",
+      "latLng": "54.806175, 56.131838",
       "model": "Volkswagen Polo",
       "color": "White",
       "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/feauture/task_3_cars_json/carsPictures/VolkswagenPolo.png",
