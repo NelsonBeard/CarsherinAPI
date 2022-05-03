@@ -1,0 +1,94 @@
+{
+  "cars": [
+    {
+      "registrationNumber": "A000AA702",
+      "model": "Ford Focus",
+      "color": "White",
+      "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/feauture/task_3_cars_json/carsPictures/FordFocus.png",
+      "transmission": "Automatic",
+      "remainRange": "150",
+      "seats": "5"
+    },
+    {
+      "registrationNumber": "A001AA702",
+      "model": "Ford Focus",
+      "color": "Black",
+      "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/feauture/task_3_cars_json/carsPictures/FordFocus.png",
+      "transmission": "Manual",
+      "remainRange": "40",
+      "seats": "5"
+    },
+    {
+      "registrationNumber": "B002BB702",
+      "model": "Audi TT",
+      "color": "Red",
+      "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/feauture/task_3_cars_json/carsPictures/AudiTT.png",
+      "transmission": "Automatic",
+      "remainRange": "140",
+      "seats": "2"
+    },
+    {
+      "registrationNumber": "C003CC702",
+      "model": "Hyundai Solaris",
+      "color": "Grey",
+      "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/feauture/task_3_cars_json/carsPictures/HyundaiSolaris.png",
+      "transmission": "Automatic",
+      "remainRange": "82",
+      "seats": "5"
+    },
+    {
+      "registrationNumber": "C004CC702",
+      "model": "Hyundai Solaris",
+      "color": "White",
+      "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/feauture/task_3_cars_json/carsPictures/HyundaiSolaris.png",
+      "transmission": "Automatic",
+      "remainRange": "100",
+      "seats": "5"
+    },
+    {
+      "registrationNumber": "E005EE702",
+      "model": "Kia Rio",
+      "color": "White",
+      "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/feauture/task_3_cars_json/carsPictures/KiaRio.png",
+      "transmission": "Manual",
+      "remainRange": "135",
+      "seats": "5"
+    },
+    {
+      "registrationNumber": "E006EE702",
+      "model": "Kia Rio",
+      "color": "Grey",
+      "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/feauture/task_3_cars_json/carsPictures/KiaRio.png",
+      "transmission": "Manual",
+      "remainRange": "180",
+      "seats": "5"
+    },
+    {
+      "registrationNumber": "K007KK702",
+      "model": "Kia Sorento Prime",
+      "color": "Black",
+      "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/feauture/task_3_cars_json/carsPictures/KiaSorentoPrime.png",
+      "transmission": "Automatic",
+      "remainRange": "200",
+      "seats": "7"
+    },
+    {
+      "registrationNumber": "T008TT702",
+      "model": "Skoda Rapid",
+      "color": "White",
+      "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/feauture/task_3_cars_json/carsPictures/SkodaRapid.png",
+      "transmission": "Manual",
+      "remainRange": "147",
+      "seats": "5"
+    },
+    {
+      "registrationNumber": "M009MM702",
+      "model": "Volkswagen Polo",
+      "color": "White",
+      "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/feauture/task_3_cars_json/carsPictures/VolkswagenPolo.png",
+      "transmission": "Automatic",
+      "remainRange": "190",
+      "seats": "5"
+    }
+  ]
+}
