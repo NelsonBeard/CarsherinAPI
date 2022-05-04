@@ -1,0 +1,144 @@
+{
+  "cars": [
+    {
+      "id": "505094f49d7448be9ccd4cf2883d5e97",
+      "registrationNumber": "A000AA702",
+      "location": {
+        "lat": 54.725937,
+        "lng": 55.959308
+      },
+      "model": "Ford Focus",
+      "color": "WHITE",
+      "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/feauture/task_3_cars_json/carsPictures/FordFocus.png",
+      "transmission": "AUTOMATIC",
+      "remainRange": 150,
+      "seats": 5
+    },
+    {
+      "id": "161fc3449b5d4d0085074a2ffaf3c1cd",
+      "registrationNumber": "A001AA702",
+      "location": {
+        "lat": 54.734264,
+        "lng": 55.945232
+      },
+      "model": "Ford Focus",
+      "color": "BLACK",
+      "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/feauture/task_3_cars_json/carsPictures/FordFocus.png",
+      "transmission": "MANUAL",
+      "remainRange": 40,
+      "seats": 5
+    },
+    {
+      "id": "7bdf366a3f2a4cdfbb15786261e0ce9e",
+      "registrationNumber": "B002BB702",
+      "location": {
+        "lat": 54.731135,
+        "lng": 55.986216
+      },
+      "model": "Audi TT",
+      "color": "RED",
+      "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/feauture/task_3_cars_json/carsPictures/AudiTT.png",
+      "transmission": "AUTOMATIC",
+      "remainRange": 140,
+      "seats": 2
+    },
+    {
+      "id": "858dd8fe2ef34f20b53028e6cf80f0b7",
+      "registrationNumber": "C003CC702",
+      "location": {
+        "lat": 54.748751,
+        "lng": 55.994166
+      },
+      "model": "Hyundai Solaris",
+      "color": "GREY",
+      "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/feauture/task_3_cars_json/carsPictures/HyundaiSolaris.png",
+      "transmission": "AUTOMATIC",
+      "remainRange": 82,
+      "seats": 5
+    },
+    {
+      "id": "a19e1118036f485e8d67334a96fbe36c",
+      "registrationNumber": "C004CC702",
+      "location": {
+        "lat": 54.759450,
+        "lng": 56.008242
+      },
+      "model": "Hyundai Solaris",
+      "color": "WHITE",
+      "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/feauture/task_3_cars_json/carsPictures/HyundaiSolaris.png",
+      "transmission": "AUTOMATIC",
+      "remainRange": 100,
+      "seats": 5
+    },
+    {
+      "id": "ba49b55a808b4dd793246b6e8d51d8ed",
+      "registrationNumber": "E005EE702",
+      "location": {
+        "lat": 54.769948,
+        "lng": 56.056994
+      },
+      "model": "Kia Rio",
+      "color": "WHITE",
+      "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/feauture/task_3_cars_json/carsPictures/KiaRio.png",
+      "transmission": "MANUAL",
+      "remainRange": 135,
+      "seats": 5
+    },
+    {
+      "id": "f6ffa49af95e453dbb353c7a1dec8097",
+      "registrationNumber": "E006EE702",
+      "location": {
+        "lat": 54.809934,
+        "lng": 56.086520
+      },
+      "model": "Kia Rio",
+      "color": "GREY",
+      "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/feauture/task_3_cars_json/carsPictures/KiaRio.png",
+      "transmission": "MANUAL",
+      "remainRange": 180,
+      "seats": 5
+    },
+    {
+      "id": "dec357eb43194c33989effa105bf1415",
+      "registrationNumber": "K007KK702",
+      "location": {
+        "lat": 54.697992,
+        "lng": 55.993479
+      },
+      "model": "Kia Sorento Prime",
+      "color": "BLACK",
+      "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/feauture/task_3_cars_json/carsPictures/KiaSorentoPrime.png",
+      "transmission": "AUTOMATIC",
+      "remainRange": 200,
+      "seats": 7
+    },
+    {
+      "id": "9d32e9086f3a48f2947230be3c7f66f3",
+      "registrationNumber": "T008TT702",
+      "location": {
+        "lat": 54.725957,
+        "lng": 55.976657
+      },
+      "model": "Skoda Rapid",
+      "color": "WHITE",
+      "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/feauture/task_3_cars_json/carsPictures/SkodaRapid.png",
+      "transmission": "MANUAL",
+      "remainRange": 147,
+      "seats": 5
+    },
+    {
+      "id": "c764ce56e6b342fb962ea408d97b4000",
+      "registrationNumber": "M009MM702",
+      "location": {
+        "lat": 54.806175,
+        "lng": 56.131838
+      },
+      "model": "Volkswagen Polo",
+      "color": "WHITE",
+      "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/feauture/task_3_cars_json/carsPictures/VolkswagenPolo.png",
+      "transmission": "AUTOMATIC",
+      "remainRange": 190,
+      "seats": 5
+    }
+  ]
+}
