@@ -9,7 +9,7 @@
       },
       "model": "Ford Focus",
       "color": "WHITE",
-      "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/feauture/task_3_cars_json/carsPictures/FordFocus.png",
+      "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/master/carsPictures/FordFocus.png",
       "transmission": "AUTOMATIC",
       "remainRange": 150,
       "seats": 5
@@ -23,7 +23,7 @@
       },
       "model": "Ford Focus",
       "color": "BLACK",
-      "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/feauture/task_3_cars_json/carsPictures/FordFocus.png",
+      "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/master/carsPictures/FordFocus.png",
       "transmission": "MANUAL",
       "remainRange": 40,
       "seats": 5
@@ -37,7 +37,7 @@
       },
       "model": "Audi TT",
       "color": "RED",
-      "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/feauture/task_3_cars_json/carsPictures/AudiTT.png",
+      "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/master/carsPictures/AudiTT.png",
       "transmission": "AUTOMATIC",
       "remainRange": 140,
       "seats": 2
@@ -51,7 +51,7 @@
       },
       "model": "Hyundai Solaris",
       "color": "GREY",
-      "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/feauture/task_3_cars_json/carsPictures/HyundaiSolaris.png",
+      "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/master/carsPictures/HyundaiSolaris.png",
       "transmission": "AUTOMATIC",
       "remainRange": 82,
       "seats": 5
@@ -65,7 +65,7 @@
       },
       "model": "Hyundai Solaris",
       "color": "WHITE",
-      "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/feauture/task_3_cars_json/carsPictures/HyundaiSolaris.png",
+      "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/master/carsPictures/HyundaiSolaris.png",
       "transmission": "AUTOMATIC",
       "remainRange": 100,
       "seats": 5
@@ -79,7 +79,7 @@
       },
       "model": "Kia Rio",
       "color": "WHITE",
-      "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/feauture/task_3_cars_json/carsPictures/KiaRio.png",
+      "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/master/carsPictures/KiaRio.png",
       "transmission": "MANUAL",
       "remainRange": 135,
       "seats": 5
@@ -93,7 +93,7 @@
       },
       "model": "Kia Rio",
       "color": "GREY",
-      "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/feauture/task_3_cars_json/carsPictures/KiaRio.png",
+      "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/master/carsPictures/KiaRio.png",
       "transmission": "MANUAL",
       "remainRange": 180,
       "seats": 5
@@ -107,7 +107,7 @@
       },
       "model": "Kia Sorento Prime",
       "color": "BLACK",
-      "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/feauture/task_3_cars_json/carsPictures/KiaSorentoPrime.png",
+      "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/master/carsPictures/KiaSorentoPrime.png",
       "transmission": "AUTOMATIC",
       "remainRange": 200,
       "seats": 7
@@ -121,7 +121,7 @@
       },
       "model": "Skoda Rapid",
       "color": "WHITE",
-      "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/feauture/task_3_cars_json/carsPictures/SkodaRapid.png",
+      "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/master/carsPictures/SkodaRapid.png",
       "transmission": "MANUAL",
       "remainRange": 147,
       "seats": 5
@@ -135,7 +135,7 @@
       },
       "model": "Volkswagen Polo",
       "color": "WHITE",
-      "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/feauture/task_3_cars_json/carsPictures/VolkswagenPolo.png",
+      "picture": "https://raw.githubusercontent.com/NelsonBeard/CarsheringAPI/master/carsPictures/VolkswagenPolo.png",
       "transmission": "AUTOMATIC",
       "remainRange": 190,
       "seats": 5
